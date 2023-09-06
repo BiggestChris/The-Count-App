@@ -1,0 +1,46 @@
+body {
+    background-image: url("the_count.png");
+    background-size: cover;
+    font-family: 'Segoe UI', Cantarell, Oxygen, Roboto, 'Helvetica Neue', -apple-system, BlinkMacSystemFont, Ubuntu, 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+}
+
+#main-div {
+    max-width: 300px;
+    margin: 20px auto 0 auto;
+    text-shadow: 0 0 5px black;
+    color: #EDFF85;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #EDFF85;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #480675;
+}
+
+#save-btn {
+    background: #2F0A85;
+}
+
